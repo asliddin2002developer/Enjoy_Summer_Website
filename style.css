@@ -1,0 +1,106 @@
+* {box-sizing:border-box}
+#title {
+    background-color: coral;
+}
+
+
+
+#navbar {
+    color: darkgreen;
+    background-color: fuchsia;
+}
+
+.box bg-primary {
+    padding: 0;
+    margin: 40;
+    
+}
+#navbar {
+  background-color: fuchsia;
+  color: #fff;
+  overflow: auto;
+}
+
+#navbar a {
+  color: #fff;
+}
+#navbar h1 {
+  float: left;
+  padding-top: 20px;
+}
+
+#navbar ul {
+  float: right;
+  list-style: none;
+    padding-right: 250px;
+}
+
+#navbar ul li {
+  float: left;
+}
+
+#navbar ul li a {
+  display: inline-block;
+  padding: 25px;
+}
+
+#welcome h1 {
+    text-align: center;
+}
+
+.nav-link text-secondary {
+    color: yellow;
+}
+
+#navbar ul li a:hover,
+#navbar ul li a.current {
+  background-color: snow;
+  color: #66FFFF;
+}
+
+.form-control me-2 {
+    shape-inside: auto;
+}
+.container-fluid {
+    padding-left: 30px;
+}
+
+.btn btn-outline-success {
+    color: red;
+}
+
+.col-lg-6 h1 {
+    text-align:left;
+    padding-right: 100px;
+}
+
+#album .container {
+    background-color: white;
+}
+
+#album {
+    background-color: #990099;
+}
+
+
+
+
+#programmes {
+    background-color: black;
+}
+
+#programmes_button {
+    text-align: center;
+}
+
+.px-3 py-2 navbar-bg {
+    background-color: purple;
+}
+.carousel-item active {
+    ;
+}
+
+.row featurette h1 {
+    text-align: center;
+}
+
